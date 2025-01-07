@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Obstacle dodge.sln"
+    "dotnet.defaultSolution": "Obstacle-Dodge-2.sln"
 }
